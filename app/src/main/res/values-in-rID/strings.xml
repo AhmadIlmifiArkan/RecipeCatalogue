@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Recipe Catalogue</string>
+
+    <string name="txt_breakfast">Sarapan</string>
+    <string name="txt_dessert">Pencuci Mulut</string>
+    <string name="txt_vegetarian">Sayur Mayur</string>
+    <string name="txt_seafood">Makanan Laut</string>
+    <string name="content_image_for_banner">Gambar Untuk Poster</string>
+    <string name="txt_garlic_butter_shrimp">Garlic Butter Shrimp</string>
+    <string name="txt_1_2_k">1.2 K</string>
+    <string name="txt_cooked">Termasak</string>
+    <string name="content_image_for_recipes">Gambar Untuk Recipes</string>
+</resources>
